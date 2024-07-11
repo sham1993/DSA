@@ -6,7 +6,7 @@ public class Test {
 		int a=10;
 		
 		int count = (int)Math.log10(a)+1;
-		
+		//ccsdjbsdhsbds
 		int x=5;
 		int y=6;
 		System.out.println(x & y);
